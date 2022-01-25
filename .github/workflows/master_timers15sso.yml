@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'timers15sso'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CC98BFB059164B4F8E2A2CC4F9DD10F2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_031B537476AD440B86C0D3FEB64D8DB3 }}
           package: '*.war'
